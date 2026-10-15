@@ -1,0 +1,14 @@
+# Core data processing and modeling
+numpy>=1.26,<2.0
+pandas>=2.2,<3.0
+requests>=2.32,<3.0
+scikit-learn>=1.5,<2.0
+torch>=2.7,<3.0
+
+# Visualizations used by the project notebooks
+matplotlib>=3.9,<4.0
+cartopy>=0.24,<0.26
+
+# Jupyter notebook execution
+jupyter>=1.1,<2.0
+ipykernel>=6.29,<7.0
